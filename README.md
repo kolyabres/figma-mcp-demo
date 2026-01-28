@@ -1,4 +1,6 @@
-![Yoda](./yoda.jpg)
+<p align="center">
+  <img src="./yoda.jpg" alt="Yoda">
+</p>
 
 # Figma MCP + Antigravity Demo
 
