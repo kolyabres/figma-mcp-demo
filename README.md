@@ -24,9 +24,23 @@ Customized behavior through specialized Skills and Rules:
 - `user-stories`: Generates Gherkin acceptance criteria for testing.
 
 **Rules:**
-- `databas-access.md`: Protocols for database interactions (DBngin, PostgreSQL).
+- `database-access.md`: Protocols for database interactions (DBngin, PostgreSQL).
 - `design-implementation.md`: Workflow for pixel-perfect design implementation.
 - `tech-stack-guide.md`: Directives for Next.js, Drizzle ORM, and styling.
+
+---
+
+## Learn More
+
+### Model Context Protocol (MCP)
+- [MCP Documentation](https://modelcontextprotocol.io/) - Official MCP specification and guides
+- [Figma MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/figma) - Figma Dev Mode integration
+- [MCP Servers Repository](https://github.com/modelcontextprotocol/servers) - Collection of official MCP servers
+
+### Antigravity & Agent Configuration
+- [Google DeepMind Antigravity](https://deepmind.google/technologies/gemini/antigravity/) - Advanced agentic coding AI
+- [Agent Skills Documentation](./.agent/skills/) - Custom skills for specialized tasks
+- [Agent Rules Documentation](./.agent/rules/) - Project-specific agent behavior rules
 
 ---
 
@@ -39,8 +53,8 @@ Customized behavior through specialized Skills and Rules:
 Review the design and make the implemenation plan for this landing page
 i want it to be pixel perfect.
 
-Features and reviews shold be loaded dynamically from the database
+Features and reviews shold be loaded dynamically from the database using one API call
 
-write user stories so testers can easy validate the functionality
+Write user stories first, so testers can easy validate the functionality
 @https://www.figma.com/design/Vz3PXmIf4wkkOmDU7vXfiK/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS--Community-?node-id=47-686&m=dev
 ```

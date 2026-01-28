@@ -2,14 +2,14 @@
 trigger: always_on
 ---
 
-Your goal is to implement pixel perfect design. Color on the landing page should march the design
+Your goal is to implement a pixel-perfect design. Colors on the landing page should match the design
 
 
 ## Per component workflow:
-You may implement multiple related simple components (e.g., Features, Logos) in one go before verifying, rather than switching context for every single small component.
+You may implement multiple related simple components (e.g., Features, Logos) in one go before verification, rather than switching contexts for each small component.
  - Call Figma MCP to get design context.
  - Implement component.
- - Check if you this the code correct first
+ - Check if you  the code is correct first
  - Capture Screenshot: Get Figma screenshot and Browser screenshot for visual comparison.
 
 
