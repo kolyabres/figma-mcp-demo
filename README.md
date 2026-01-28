@@ -34,13 +34,12 @@ Customized behavior through specialized Skills and Rules:
 
 ### Model Context Protocol (MCP)
 - [MCP Documentation](https://modelcontextprotocol.io/) - Official MCP specification and guides
-- [Figma MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/figma) - Figma Dev Mode integration
 - [MCP Servers Repository](https://github.com/modelcontextprotocol/servers) - Collection of official MCP servers
 
 ### Antigravity & Agent Configuration
-- [Google DeepMind Antigravity](https://deepmind.google/technologies/gemini/antigravity/) - Advanced agentic coding AI
-- [Agent Skills Documentation](./.agent/skills/) - Custom skills for specialized tasks
-- [Agent Rules Documentation](./.agent/rules/) - Project-specific agent behavior rules
+- [Google Antigravity docs](https://antigravity.google/docs/get-started) - Advanced agentic coding AI
+- [Agent Skills Documentation](https://agentskills.io/) - Open standart documentation for agent skills
+- [Agent Skills Collection](https://github.com/VoltAgent/awesome-claude-skills) - Awesome collection of agent skills
 
 ---
 
