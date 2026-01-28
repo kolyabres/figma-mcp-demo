@@ -52,6 +52,12 @@ Customized behavior through specialized Skills and Rules:
 
 [Figma File](https://www.figma.com/design/Vz3PXmIf4wkkOmDU7vXfiK/SaaS-Landing-Page-Template---Landing-Page-Template-ready-to-export-to-HTML---Landing-page-for-SaaS--Community-?node-id=60-1115&p=f&m=dev)
 
+### First Steps
+Before running this demo, ensure you have:
+1. **Figma Desktop App** - Antigravity works only with the desktop version of Figma (not the web version)
+2. **Enable Dev Mode in Figma** - Open the Figma file and switch to Dev Mode (this is required for MCP to access design properties)
+3. **Enable Figma MCP Connection** - Configure the Figma MCP server connection in Antigravity settings
+
 ### First Prompt
 ```
 Review the design and make the implemenation plan for this landing page
