@@ -1,3 +1,5 @@
+![Yoda](./yoda.jpg)
+
 # Figma MCP + Antigravity Demo
 
 This project demonstrates the capabilities of using **Figma MCP**, **Antigravity**, and **Agent Configuration** (Skills and Rules) to convert a Figma design into a pixel-perfect landing page.
@@ -34,6 +36,7 @@ Customized behavior through specialized Skills and Rules:
 
 ### Model Context Protocol (MCP)
 - [MCP Documentation](https://modelcontextprotocol.io/) - Official MCP specification and guides
+- [Figma MCP Server guide](https://help.figma.com/hc/en-us/articles/32132100833559-Guide-to-the-Figma-MCP-server) - Figma Dev Mode integration
 - [MCP Servers Repository](https://github.com/modelcontextprotocol/servers) - Collection of official MCP servers
 
 ### Antigravity & Agent Configuration
